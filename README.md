@@ -5,7 +5,7 @@
 + detection
 	```shell
 	$jps -v
-	$jstack 10117 >> deadlock.log
+	$jstack <PID> >> deadlock.log
 	```
 ## java/src/main/java/com.selfemp.designpattern.Dualton 
 -- More than Singleton
