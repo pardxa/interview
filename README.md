@@ -8,4 +8,4 @@
 	$jstack 10117 >> deadlock.log
 	```
 ## java/src/main/java/com.selfemp.designpattern.Dualton 
--- more than Singleton
+-- More than Singleton
