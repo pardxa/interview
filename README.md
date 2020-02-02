@@ -15,3 +15,6 @@
 
 ## java/src/main/java/com.selfemp.CountdownlatchExample
 --CountDownLatch code
+
+## com.selfemp.OrderExe
+-- Thread execution in order, one by one
